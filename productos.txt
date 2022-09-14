@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Taladro",
+    "precio": 150,
+    "thumnail": "https://firebasestorage.googleapis.com/v0/b/ferrimac-react.appspot.com/o/taladro1.webp?alt=media&token=4dd0feae-c65b-456b-92d5-92e361173aa9",
+    "id": 1
+  },
+  {
+    "nombre": "Compresor",
+    "precio": 200,
+    "thumnail": "https://firebasestorage.googleapis.com/v0/b/ferrimac-react.appspot.com/o/compresor1.webp?alt=media&token=d1996503-db56-4e80-8f36-1092ec97bbb0",
+    "id": 2
+  },
+  {
+    "nombre": "Hidrolavadora",
+    "precio": 300.45,
+    "thumnail": "https://firebasestorage.googleapis.com/v0/b/ferrimac-react.appspot.com/o/hidro1.webp?alt=media&token=6aa2891b-7f0e-4707-942b-61ce7b70278c",
+    "id": 3
+  }
+]
